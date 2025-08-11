@@ -1,1 +1,3 @@
 streamlink
+libxml2
+libxslt
