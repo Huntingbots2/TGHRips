@@ -21,8 +21,8 @@ Includes setup scripts for Android (Termux) users.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mpd-dash-video-downloader.git
-cd mpd-dash-video-downloader
+git clone https://github.com/Huntingbots2/TGHRips.git
+cd TGHRips
 pip install -r requirements.txt
 ```
 
